@@ -1,0 +1,3 @@
+#!/bin/bash
+wicd-cli -x -y &
+echo Disconnected.
